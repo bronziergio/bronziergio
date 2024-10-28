@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @bronziergio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Bronzergio
+# Meu nome é Sérgio🤧
+- tenho 15 anos🤫
+- sou estudante e sou novo nesta área🙂‍↔️
+- gosto de academia🦾
+- gosto de xadrez♟️
 
-<!---
-bronziergio/bronziergio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![17276946509414057820235724621164](https://github.com/user-attachments/assets/cb031d5d-a5aa-4a92-a316-a0ed9a3f6cb8)
